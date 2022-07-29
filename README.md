@@ -1,4 +1,4 @@
-# 🌟FRANKLIN MOUX🌟
+# 🌟FRANKLIN MOUX
 
 #🙋‍♂️Certified AWS Solutions Architect Professional with hands-on experience in designing and deploying scalable, highly available, and fault tolerant systems.
 
