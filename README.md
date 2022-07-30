@@ -1,6 +1,6 @@
-#👨🏻‍💻 FRANKLIN MOUX☁️
+#👨🏻‍💻 FRANKLIN MOUX ☁️
 
-#🙋‍♂️Certified AWS Solutions Architect Professional with hands-on experience in designing and deploying scalable, highly available, and fault tolerant systems.
+🙋‍♂️Certified AWS Solutions Architect Professional with hands-on experience in designing and deploying scalable, highly available, and fault tolerant systems.
 
 #🦸 Hands-on experience in containerization (Docker, Kubernetes, AWS Fargate, AWS EKS, AWS ECS), AWS deployment services (AWS CloudFormation, AWS CodeDeploy, CodeCommit, CodeBuild), and DevOps tools (Terraform and Ansible).
 
