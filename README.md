@@ -19,5 +19,6 @@
 🖥️ Personal blog/portal website featuring projects and diverse Cloud tools: www.awsinformation.com
 
 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/franklin-moux)
 
 
