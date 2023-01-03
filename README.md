@@ -14,7 +14,7 @@
 
 🧞 Hands-on configuration of a highly available MySQL database in an Amazon RDS DB instance to store data for a customerfacing website. Created an Amazon Elastic Compute Cloud (Amazon EC2) instance that runs a PHP website to connect to the datatabase server. Also designed a disaster recovery solution for the database and the web server in another region.
 
-🏋️‍♂️ Currently training for the FinOps Certified Practitioner Certification.
+🏋️‍♂️FinOps Certified Practitioner Certification.
 
 🖥️ Personal blog/portal website featuring projects and diverse Cloud tools: www.awsinformation.com
 
